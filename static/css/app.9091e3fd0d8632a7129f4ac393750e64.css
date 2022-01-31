@@ -1,0 +1,21 @@
+
+p.tasks[data-v-6585e6f1] {
+  margin: 1%;
+  text-align: left;
+  color: green;
+  background-color: aquamarine;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+p.pending[data-v-6585e6f1] {
+  margin: 1%;
+  background-color: silver;
+  text-align: left;
+  color: #660033;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=app.9091e3fd0d8632a7129f4ac393750e64.css.map*/
